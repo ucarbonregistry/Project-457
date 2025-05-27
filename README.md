@@ -43,3 +43,22 @@ expected to be 32470 tCO2e, whereas actual emission reduction achieved during th
 shall be submitted as a part of first monitoring and verification.
 Since the project activity generates electricity through WHRB, a clean energy source it will not cause
 any negative impact on the environment and thereby contributes to climate change mitigation efforts.
+_________________
+PROJECT ISSUANCE: 27/05/2025
+
+QTY: 50280
+
+MP-01: 01/09/2023-31/12/2024
+______________
+Serial Number: 0001-000001-021475-UCR-CoU-IN-457-01092023-31122023
+
+Vintage Year: 2023
+
+Quantity: 21475
+__________
+Serial Number: 0001-021476-050280-UCR-CoU-IN-457-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 26542
+_______________
